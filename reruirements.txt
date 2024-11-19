@@ -1,0 +1,8 @@
+beautifulsoup4==4.13.0
+requests==2.31.0
+lxml==4.9.3
+pandas==1.5.3
+schedule==1.2.0
+google-cloud-storage==2.11.0
+python-dotenv==1.0.0
+smtplib==1.0.0  # For sending email alerts (built-in module, optional placeholder)
