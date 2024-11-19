@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>/usr/bin/python3 "/Users/kashishvarmaa/Documents/5 Sem/RPA /Amazon Price Tracker/amazon_price.py"</string>
+					<string>/opt/anaconda3/bin/python3 "/Users/kashishvarmaa/Documents/5 Sem/RPA /Amazon Price Tracker/amazon_price.py"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -169,8 +169,6 @@
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
